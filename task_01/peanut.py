@@ -3,5 +3,5 @@
 """This module is called peanut"""
 
 
-BUTTER = ['Greasy']
-OIL = ('Olive')
+BUTTER = 5
+OIL = 0
