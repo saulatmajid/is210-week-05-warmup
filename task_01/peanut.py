@@ -3,5 +3,5 @@
 """This module is called peanut"""
 
 
-BUTTER = 5
-OIL = 0
+BUTTER = True and True
+OIL = True and False
